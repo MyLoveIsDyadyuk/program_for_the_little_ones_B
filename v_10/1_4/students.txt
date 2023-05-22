@@ -1,0 +1,14 @@
+Mavrodi 01.01.1999 3 5.4 M
+Chromov 01.01.1999 3 6.4 F
+Bulbyak 01.01.1999 3 6.4 M
+Chrenow 01.01.1999 3 6.4 M
+Grishan 01.01.1999 3 6.4 M
+Sinners 01.01.1999 3 6.4 F
+McLovin 01.01.1999 3 9.4 F
+Guddini 01.01.1999 3 9.4 F
+Sobolev 01.01.1999 3 9.4 N
+Rasputn 01.01.1999 3 9.4 M
+ImKonor 01.01.2020 3 9.4 N
+Gordonn 01.01.1999 3 9.4 N
+ImMaskk 01.01.1999 3 4.4 R
+Hasbeek 01.01.1999 3 4.4 M

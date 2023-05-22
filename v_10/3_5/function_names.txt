@@ -1,0 +1,6 @@
+add at line 30
+del at line 95
+find_eq at line 81
+find_gt at line 17
+print at line 58
+print_list at line 72
